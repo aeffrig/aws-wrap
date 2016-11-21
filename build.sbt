@@ -4,8 +4,6 @@ licenses in ThisBuild += ("Apache-2.0", url("http://www.apache.org/licenses/LICE
 
 scalaVersion in ThisBuild := "2.11.8"
 
-crossScalaVersions in ThisBuild := Seq("2.10.6", "2.11.8")
-
 shellPrompt in ThisBuild := CustomShellPrompt.customPrompt
 
 resolvers in ThisBuild ++= Seq(
