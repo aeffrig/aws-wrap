@@ -19,7 +19,7 @@ aws-wrap is built for Scala 2.10.x, 2.11.x, and 2.12.x against AWS Java SDK 1.11
 If you are using SBT, simply add the following to your `build.sbt` file:
 
 ```
-resolvers += Resolver.bintrayRepo("mingchuno", "maven")
+resolvers += Resolver.bintrayRepo("aeffrig", "maven")
 
 libraryDependencies += "com.github.dwhjames" %% "aws-wrap" % "0.9.0"
 ```
