@@ -1,6 +1,6 @@
 # Asynchronous Scala Clients for Amazon Web Services
 
-[![Build Status](https://travis-ci.org/aeffrig/aws-wrap.svg?branch=master)](https://travis-ci.org/mingchuno/aws-wrap)
+[![Build Status](https://travis-ci.org/aeffrig/aws-wrap.svg?branch=master)](https://travis-ci.org/aeffrig/aws-wrap)
 
 Asynchronous clients are provided for the following services:
 
